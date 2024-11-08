@@ -64,7 +64,7 @@ I am a Ph.D. Student in Atmospheric Sciences at Institute of Astronomy, Geophysi
 
 ### :fire: My Stats :
   
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldRN&show_icons=true&theme=dark&background=000000&width="300")
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldRN&show_icons=true&theme=dark&background=000000&width=300)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RonaldRN&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div align="center">
