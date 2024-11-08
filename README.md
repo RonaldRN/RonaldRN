@@ -5,12 +5,13 @@
 - 📫 How to reach me ronald.ramirez.nina@gmail.com / ronald.ramirez.nina@usp.br
 
 <!-- Link de referência para editar o arquivo README.md https://www.sitepoint.com/github-profile-readme/ -->
-<!-- Este é um comentário oculto que não será exibido no GitHub -->
 
+<!-- Gráfico do dinosáurio -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/G74LKP9zsfLInmz3H6/giphy.gif" width="500"/>
 </div>
 
+<!-- Iconos de Linkdin e instagram -->
 <div id="badges">
   <a href="linkedin.com/in/ronald-guiuseppi-ramírez-nina-7041a3146">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,3 +20,8 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?username=RonaldRN&style=flat-square&color=blue" alt=""/>
+</div>
+
