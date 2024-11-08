@@ -11,4 +11,11 @@
   <img src="https://media.giphy.com/media/G74LKP9zsfLInmz3H6/giphy.gif" width="500"/>
 </div>
 
-https://img.shields.io/badge/LinkedIn-blue
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
