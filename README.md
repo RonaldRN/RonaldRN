@@ -2,7 +2,7 @@
 
 <!-- Gráfico do dinosáurio -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/G74LKP9zsfLInmz3H6/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/G74LKP9zsfLInmz3H6/giphy.gif" width="300"/>
 </div>
 
 <!-- Iconos de Linkdin e instagram -->
@@ -64,7 +64,7 @@ I am a Ph.D. Student in Atmospheric Sciences at Institute of Astronomy, Geophysi
 
 ### :fire: My Stats :
   
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldRN&show_icons=true&theme=radical)
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldRN&show_icons=true&theme=dracula)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RonaldRN&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div align="center">
