@@ -1,28 +1,8 @@
 <!-- Link de referência para editar o arquivo README.md: https://www.sitepoint.com/github-profile-readme/ -->
 
-<!-- Gráfico do dinosáurio -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/G74LKP9zsfLInmz3H6/giphy.gif" width="300"/>
-</div>
-
-<!-- Iconos de Linkdin e instagram -->
-<div id="badges" align="center">
-  <a href="linkedin.com/in/ronald-guiuseppi-ramírez-nina-7041a3146">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/ronaldrgrn/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
-<!-- Icone de contador de vistas -->
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=RonaldRN&style=flat-square&color=blue" alt=""/>
-</div>
-
 <!-- Mensagem de bem-vinda com uma gif comprimentando -->
 <h1>
-  Hello world
+  Hello World :earth_americas:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -59,18 +39,45 @@ I am a Ph.D. Student in Atmospheric Sciences at Institute of Astronomy, Geophysi
 </div>
 
 <!-- Adicionando meus estatísticas -->
-
 ---
 
 ### :fire: My Stats :
-  
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldRN&show_icons=true&theme=dark&background=000000)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RonaldRN&theme=dark&background=000000)
+<!-- Estatísticas do GitHub contíguas -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RonaldRN&show_icons=true&theme=dark&background=000000" alt="Estatísticas do GitHub de Ronald"/>
+    </td>
+    <td>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=RonaldRN&theme=dark&background=000000" alt="GitHub Streak de Ronald"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldRN&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldRN&layout=compact&theme=vision-friendly-dark)
 
+</div>
+
+<!-- Gráfico do dinosáurio -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/G74LKP9zsfLInmz3H6/giphy.gif" width="300"/>
+</div>
+
+<!-- Iconos de Linkdin e instagram -->
+<div id="badges" align="center">
+  <a href="linkedin.com/in/ronald-guiuseppi-ramírez-nina-7041a3146">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/ronaldrgrn/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+<!-- Icone de contador de vistas -->
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=RonaldRN&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!-- Falta adicionar a seção de ADDING RECENT BLOGS TO YOUR GITHUB PROFILE README -->
