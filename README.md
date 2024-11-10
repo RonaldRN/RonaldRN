@@ -20,7 +20,7 @@ I am a Ph.D. Student in Atmospheric Sciences at Institute of Astronomy, Geophysi
 
 - :computer: Exploration of the different mechanisms driving diurnal convection in the Amazon basin. I usually use the following data processing software: Python, Jupyter, Fortran, GrADS, QGIS and Latex. 
 
-- :zap: I solve programming problems using Fortran and read scientific articles on atmospheric science, science fiction and play sports.
+- :zap: In my free time, I solve programming problems using Fortran and read scientific articles on atmospheric science, science fiction and play sports.
 
 - :mailbox: How to reach me: ronald.ramirez.nina@gmail.com / ronald.ramirez.nina@usp.br
 
