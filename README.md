@@ -3,7 +3,7 @@
 <!-- Mensagem de bem-vinda com uma gif comprimentando -->
 <h1>
   Hello World :earth_americas:
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </h1>
 
 <!-- Gif de preambulo para falar sobre mim -->
